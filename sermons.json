@@ -1,0 +1,40 @@
+{
+    "listOptions":[
+        { "month":"January" },
+		{ "month":"February" },
+		{ "month":"March" },
+		{ "month":"April" },
+		{ "month":"May" },
+		{ "month":"June" },
+		{ "month":"July" },
+		{ "month":"August" },
+		{ "month":"September" },
+		{ "month":"October" },
+		{ "month":"November" },
+		{ "month":"December" }
+    ],
+    "sermons":[
+		{
+			"title":"<Sermon Title>",
+			"sermonSeries":"<Sermon Series Title>",
+		 	"sermonURL":"<Sermon Video URL>",
+			"sermonImage":"<Sermon block image>",
+			"verses":"<Verse Reference>",
+			"versesURL":"<Link to Verse>",
+			"date":"<Sermon Date Spoken>",
+			"speaker":"<Speaker's name>",
+			"podcastURL":"<URL for sermon podcast. If left blank, then the link will not be added.>
+		},
+		{
+			"title":"<Sermon Title>",
+			"sermonSeries":"<Sermon Series Title>",
+		 	"sermonURL":"<Sermon Video URL>",
+			"sermonImage":"<Sermon block image>",
+			"verses":"<Verse Reference>",
+			"versesURL":"<Link to Verse>",
+			"date":"<Sermon Date Spoken>",
+			"speaker":"<Speaker's name>",
+			"podcastURL":"<URL for sermon podcast. If left blank, then the link will not be added.>
+		}
+    ]
+}
